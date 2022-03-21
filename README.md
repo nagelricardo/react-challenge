@@ -1,6 +1,6 @@
 <p><img  alt="Version"  src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" /></p>
 
-### 🏠 [Clique aqui e confira a aplicação!](https://encurtador-links-nu.vercel.app/)
+### 🏠 [Clique aqui e confira a aplicação!](https://react-challenge-ebon.vercel.app/)
 
 > 🚀 Versão simplificada do site Hapu’s ‘Become a Nanny Share Host’.
 
